@@ -1,0 +1,3 @@
+C:\Users\Rodrigo\Desktop\Best Vayne\Best Vayne\obj\Release\Best Vayne.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Best Vayne\Best Vayne\obj\Release\Best_Vayne.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Best Vayne\Best Vayne\obj\Release\Best Vayne.csproj.GenerateResource.Cache
